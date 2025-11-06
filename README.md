@@ -42,7 +42,7 @@ _Prácticas en consultoría tecnológica_
 ---
 
 ### 📫 **Contacto**
-- ✉️ **Correo:** [navasmedinajulian2006@gmail.com](mailto:navasmedinajulian2006@gmail.com)  
+- ✉️ **Correo:** [jnavasmedina@safareyes.es](mailto:jnavasmedina@safareyes.es)  
 - 🌐 **Ubicación:** Sevilla, España  
 
 ---
