@@ -44,9 +44,5 @@ _Prácticas en consultoría tecnológica_
 ### 📫 **Contacto**
 - ✉️ **Correo:** [navasmedinajulian2006@gmail.com](mailto:navasmedinajulian2006@gmail.com)  
 - 🌐 **Ubicación:** Sevilla, España  
-- 🔗 **GitHub:** [TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
 
 ---
-
-> 💬 *“La mejor forma de aprender es construir. Cada proyecto es una oportunidad para mejorar.”*  
-> — Julián Navas Medina
